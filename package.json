@@ -1,0 +1,25 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "basic unit testing javascript files",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linstantnoodles/js-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linstantnoodles/js-testing/issues"
+  },
+  "homepage": "https://github.com/linstantnoodles/js-testing#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1"
+  }
+}
